@@ -1,0 +1,15 @@
+C:\Users\rus_l\source\repos\TaskA\TaskA\bin\Debug\net6.0\TaskA.exe
+C:\Users\rus_l\source\repos\TaskA\TaskA\bin\Debug\net6.0\TaskA.deps.json
+C:\Users\rus_l\source\repos\TaskA\TaskA\bin\Debug\net6.0\TaskA.runtimeconfig.json
+C:\Users\rus_l\source\repos\TaskA\TaskA\bin\Debug\net6.0\TaskA.dll
+C:\Users\rus_l\source\repos\TaskA\TaskA\bin\Debug\net6.0\ref\TaskA.dll
+C:\Users\rus_l\source\repos\TaskA\TaskA\bin\Debug\net6.0\TaskA.pdb
+C:\Users\rus_l\source\repos\TaskA\TaskA\obj\Debug\net6.0\TaskA.csproj.AssemblyReference.cache
+C:\Users\rus_l\source\repos\TaskA\TaskA\obj\Debug\net6.0\TaskA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rus_l\source\repos\TaskA\TaskA\obj\Debug\net6.0\TaskA.AssemblyInfoInputs.cache
+C:\Users\rus_l\source\repos\TaskA\TaskA\obj\Debug\net6.0\TaskA.AssemblyInfo.cs
+C:\Users\rus_l\source\repos\TaskA\TaskA\obj\Debug\net6.0\TaskA.csproj.CoreCompileInputs.cache
+C:\Users\rus_l\source\repos\TaskA\TaskA\obj\Debug\net6.0\TaskA.dll
+C:\Users\rus_l\source\repos\TaskA\TaskA\obj\Debug\net6.0\ref\TaskA.dll
+C:\Users\rus_l\source\repos\TaskA\TaskA\obj\Debug\net6.0\TaskA.pdb
+C:\Users\rus_l\source\repos\TaskA\TaskA\obj\Debug\net6.0\TaskA.genruntimeconfig.cache
