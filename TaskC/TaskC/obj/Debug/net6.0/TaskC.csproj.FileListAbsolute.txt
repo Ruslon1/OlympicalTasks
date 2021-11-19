@@ -1,0 +1,15 @@
+C:\Users\rus_l\source\repos\TaskC\TaskC\bin\Debug\net6.0\TaskC.exe
+C:\Users\rus_l\source\repos\TaskC\TaskC\bin\Debug\net6.0\TaskC.deps.json
+C:\Users\rus_l\source\repos\TaskC\TaskC\bin\Debug\net6.0\TaskC.runtimeconfig.json
+C:\Users\rus_l\source\repos\TaskC\TaskC\bin\Debug\net6.0\TaskC.dll
+C:\Users\rus_l\source\repos\TaskC\TaskC\bin\Debug\net6.0\ref\TaskC.dll
+C:\Users\rus_l\source\repos\TaskC\TaskC\bin\Debug\net6.0\TaskC.pdb
+C:\Users\rus_l\source\repos\TaskC\TaskC\obj\Debug\net6.0\TaskC.csproj.AssemblyReference.cache
+C:\Users\rus_l\source\repos\TaskC\TaskC\obj\Debug\net6.0\TaskC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rus_l\source\repos\TaskC\TaskC\obj\Debug\net6.0\TaskC.AssemblyInfoInputs.cache
+C:\Users\rus_l\source\repos\TaskC\TaskC\obj\Debug\net6.0\TaskC.AssemblyInfo.cs
+C:\Users\rus_l\source\repos\TaskC\TaskC\obj\Debug\net6.0\TaskC.csproj.CoreCompileInputs.cache
+C:\Users\rus_l\source\repos\TaskC\TaskC\obj\Debug\net6.0\TaskC.dll
+C:\Users\rus_l\source\repos\TaskC\TaskC\obj\Debug\net6.0\ref\TaskC.dll
+C:\Users\rus_l\source\repos\TaskC\TaskC\obj\Debug\net6.0\TaskC.pdb
+C:\Users\rus_l\source\repos\TaskC\TaskC\obj\Debug\net6.0\TaskC.genruntimeconfig.cache
